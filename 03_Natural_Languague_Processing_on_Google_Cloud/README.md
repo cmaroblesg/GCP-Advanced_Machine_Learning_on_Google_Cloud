@@ -1,4 +1,4 @@
-# Natural Language Processing on Google Cloud
+# [Natural Language Processing on Google Cloud](https://www.coursera.org/learn/sequence-models-tensorflow-gcp)
 **This course is part of Advanced Machine Learning on Google Cloud Specialization**
 
 ## Build your subject-matter expertise
